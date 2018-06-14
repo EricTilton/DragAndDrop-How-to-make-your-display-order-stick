@@ -14,6 +14,6 @@ Once you create your User Defined Table under User defined table types you can b
 <br/>
 <br/>
 <br/>
-The Dragula Decorator function utilizes the "target" parameter to collect data from each mapped out object within its specific category grabbing the index number and id of each question in the list and placing it in the array called "changes". Thus it splices this array into arrays containing only the id and display order number of each FAQ and is looped through the axios call "UpdateDisplayOrder" which uses the user defined table to update each and every FAQ within the list with its specific index number as soon as the onDrop occurs. 
+The Dragula Decorator function utilizes the "target" parameter to collect data from each mapped out object referencing it. It grabs the index number and id of each question in the list and placing it in the array called "changes". Thus it splices this array into arrays containing only the id and display order number of each FAQ and is looped through the axios call "UpdateDisplayOrder" which uses the user defined table to update each and every FAQ within the list with its specific index number as soon as the FAQ is dropped in its new order. 
 
 <a href="https://ibb.co/iwfKny"><img src="https://preview.ibb.co/cXbs7y/Dragula_Decorator.png" alt="Dragula_Decorator" border="0"></a>
