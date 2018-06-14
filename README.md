@@ -8,7 +8,6 @@ Once you create your User Defined Table under User defined table types you can b
 <br/>
 <br/>
 <br/>
-![Alt Text](https://photos.app.goo.gl/Fst3FrBtceu1QJKk6)
 <a href="https://ibb.co/d7wmZd"><img src="https://preview.ibb.co/nzLDEd/User_Defined_table.png" alt="User_Defined_table" border="0"></a>
 <br/>
 <br/>
