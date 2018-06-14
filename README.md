@@ -1,6 +1,5 @@
 # Dragula-How-to-make-your-display-order-stick
-A tool for Site Administrators to drag and drop there Frequently asked questions in the specific order they choose and have there changes stick utilizing react-dragula, and a user defined table within SQL Server Management Studio.
-
+This example shows a list of FAQs that can be dragged and dropped in a specific order and have there changes actually stay. It utilizes a user defined table created in SQL Server and the function "Dragula Decorator" to accomplish this. 
 ![Alt Text](https://media.giphy.com/media/1wX9bI6KabpmF9F2x3/giphy.gif)
 <br/>
 <br/>
