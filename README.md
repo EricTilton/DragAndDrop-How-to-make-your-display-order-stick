@@ -3,4 +3,6 @@ A tool for Site Administrators to drag and drop there Frequently asked questions
 
 ![Alt Text](https://media.giphy.com/media/1wX9bI6KabpmF9F2x3/giphy.gif)
 
+once you create your User Defined Table under User defined table types you can begin sending arrays of display order numbers to your database. 
 
+![Alt Text](https://ibb.co/d7wmZd)
