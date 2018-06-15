@@ -1,4 +1,4 @@
-# Dragula-How-to-make-your-display-order-stick
+# DragAndDrop-How-to-make-your-display-order-stick
 This example shows a list of FAQs that can be dragged and dropped in a specific order and have there changes actually stay. It utilizes a user defined table created in SQL Server and the referenced function "Dragula Decorator" to accomplish this. 
 ![Alt Text](https://media.giphy.com/media/1wX9bI6KabpmF9F2x3/giphy.gif)
 <br/>
